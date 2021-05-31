@@ -1,4 +1,4 @@
-# giphy_app
+# Giphy App
 Aplicativo de busca de imagens .GIF utilizando a API da Giphy.
 
 ***
@@ -6,7 +6,7 @@ Aplicativo de busca de imagens .GIF utilizando a API da Giphy.
 Faça o download do arquivo APK do app e instale-o em seu smartphone.
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=br.com.adelmoaquino.prisma_study">Download Prisma Study</a>
+  <a href="https://drive.google.com/u/0/uc?id=1IM0eV_zIKSJPa2zrJICCKP1PJcINrCKT&export=download">Download Giphy App</a>
 </p>
 
  <p align="center">
@@ -15,12 +15,8 @@ Faça o download do arquivo APK do app e instale-o em seu smartphone.
 
 
 ## Aprendizado
-* Firebase Auth.
-* Firebase Database / RealTime Database.
-* Firebase Storage.
-* Navegação via Drawer.
-* Provider / setState.
-* Deploy na Google Play Store.
-* Utilização e manuseio de Forms.
-* Algoritmos de ordenação.
-* Navegação e rotas.
+* Dart `null safety`.
+* Consumo de API.
+* Formatação/interpretação de `json`.
+* Utilização de funções assíncronas.
+* Utilização de widgets dinâmicos.
