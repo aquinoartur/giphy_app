@@ -2,7 +2,7 @@
 Aplicativo de busca de imagens .GIF utilizando a API da Giphy.
 
 ***
-#### Download do Aplicativo (APK)
+### Download do Aplicativo (APK)
 Faça o download do arquivo APK do app e instale-o em seu smartphone.
 
 <p align="center">
